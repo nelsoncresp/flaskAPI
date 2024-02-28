@@ -64,7 +64,7 @@ Esta API proporciona endpoints para gestionar información de personas.
 
 ## Configuración
 
-1. Instala las dependencias: `pip install -r requirements.txt`
+1. Instala las dependencias: `pip install flask`
 2. Ejecuta la aplicación: `python app.py`
 3. La API estará disponible en `http://localhost:4000`
 
